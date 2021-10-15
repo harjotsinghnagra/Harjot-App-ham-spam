@@ -1,9 +1,9 @@
 # SpamHam
 SpamHam is a text-classification app which detects whether the message/email is spam or not. I've used Naive-Bayes along with NLP (TF-IDF, Bag of Words and more). <br>
-In order to perform an experiment I've combined two datasets (Enron email spam/ham and SMS spam classification) into one to gather more data. [See this notebook](https://github.com/aditya98ak/spam-ham-web-app/blob/master/machine_learning_section/SpamHam.ipynb) to get what I am saying.
+In order to perform an experiment I've combined two datasets (Enron email spam/ham and SMS spam classification) into one to gather more data. [See this notebook](https://github.com/harjotsinghnagra/Harjot-App-ham-spam/blob/main/machine_learning_section/SpamHam.ipynb) to get what I am saying.
 <br>
 To check out this project in action I've deployed it on heroku
-[Click on this link to check](https://spamham.herokuapp.com)
+[Click on this link to check](https://span-or-ham.herokuapp.com/)
 
 
 ### Built With
@@ -30,7 +30,7 @@ To check out this project in action I've deployed it on heroku
 #### Steps
 - Make a virtual environment using "conda create -n envname python=3.6 pip"
 - source activate envname (for mac/linux) | activate envname (for windows)
-- Download or clone this repo by [git clone https://github.com/aditya98ak/spam-ham-web-app.git](https://github.com/aditya98ak/spam-ham-web-app.git)
+- Download or clone this repo by [git clone https://github.com/harjotsinghnagra/Harjot-App-ham-spam.git](https://github.com/harjotsinghnagra/Harjot-App-ham-spam.git)
 - pip install -r requirements.txt
 - Run the app using python manage.py runserver
 
@@ -39,6 +39,5 @@ To check out this project in action I've deployed it on heroku
 - Collect the result reported by user for false classification of messages/email
 - Model will self-learn from the reported data
 
-Made with :heart: by
-**Aditya Kaushik**  - [linkedin.com/adityakaushik001](https://www.linkedin.com/in/adityakaushik01/)
+
 
