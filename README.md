@@ -24,7 +24,7 @@ __Live Link__ - https://span-or-ham.herokuapp.com/
 <br>
 <h2> FLOW CHART </h2>
 
-![image](![image](https://user-images.githubusercontent.com/80465715/137627786-a75d6ec5-aaeb-4398-88a1-6f5754b77db5.png))
+![image](https://user-images.githubusercontent.com/80465715/137627786-a75d6ec5-aaeb-4398-88a1-6f5754b77db5.png)
 
 
 
@@ -35,9 +35,9 @@ __Live Link__ - https://span-or-ham.herokuapp.com/
 <br><br>
 <h2>IO Screenshots</h2>
 
-![image](![image](https://user-images.githubusercontent.com/80465715/137627450-b49a3720-0a77-4594-8c10-87c69fbb61cd.png))
+![image](https://user-images.githubusercontent.com/80465715/137627450-b49a3720-0a77-4594-8c10-87c69fbb61cd.png)
 
-![image](![image](https://user-images.githubusercontent.com/80465715/137627465-12e700d3-d7db-4b14-961a-16e28d408287.png))
+![image](https://user-images.githubusercontent.com/80465715/137627465-12e700d3-d7db-4b14-961a-16e28d408287.png)
 
 
 
