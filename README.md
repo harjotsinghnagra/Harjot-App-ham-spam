@@ -5,6 +5,7 @@ In order to perform an experiment I've combined two datasets (Enron email spam/h
 To check out this project in action I've deployed it on heroku
 [Click on this link to check](https://span-or-ham.herokuapp.com/)
 
+__Live Link__ - https://span-or-ham.herokuapp.com/
 
 ### Built With
 
@@ -19,6 +20,29 @@ To check out this project in action I've deployed it on heroku
 5. CSS
 6. Bootstrap-v4
 7. Love
+<br>
+<br>
+<h2> FLOW CHART </h2>
+
+![image](![image](https://user-images.githubusercontent.com/80465715/137627786-a75d6ec5-aaeb-4398-88a1-6f5754b77db5.png))
+
+
+
+
+<br>
+
+
+<br><br>
+<h2>IO Screenshots</h2>
+
+![image](![image](https://user-images.githubusercontent.com/80465715/137627450-b49a3720-0a77-4594-8c10-87c69fbb61cd.png))
+
+![image](![image](https://user-images.githubusercontent.com/80465715/137627465-12e700d3-d7db-4b14-961a-16e28d408287.png))
+
+
+
+
+<br>
 
 ### Installing/ Things you need to install the Web App and how to set up the project locally?
 
